@@ -1,0 +1,225 @@
+﻿{
+  "app_title": "Nile Explorer",
+
+  "common": {
+    "all": "All"
+  },
+
+  "navigation": {
+    "home": "Home",
+    "explore": "Explore",
+    "favorites": "Favorites",
+    "settings": "Settings"
+  },
+
+  "categories": {
+    "temples": "Temples",
+    "museums": "Museums",
+    "beaches": "Beaches",
+    "bazaars": "Bazaars"
+  },
+
+  "cities": {
+    "giza": "Giza",
+    "cairo": "Cairo",
+    "alexandria": "Alexandria",
+    "luxor": "Luxor",
+    "aswan": "Aswan",
+    "hurghada": "Hurghada",
+    "fayoum": "Fayoum",
+
+    "giza_subtitle": "Pyramids & ancient sands",
+    "cairo_subtitle": "Heritage & nightlife",
+    "alexandria_subtitle": "Mediterranean history",
+    "luxor_subtitle": "Ancient wonders",
+    "aswan_subtitle": "Nile serenity",
+    "hurghada_subtitle": "Red Sea escapes",
+    "fayoum_subtitle": "Oases, lakes & pottery"
+  },
+
+  "home": {
+    "hero_badge": "Egyptian Modern Guide",
+    "hero_title": "Discover the soul of Egypt from temples to beaches",
+    "hero_subtitle": "Handpicked places in one app",
+
+    "categories": "Categories",
+    "cities": "Cities",
+    "recommended": "Recommended",
+    "trending_now": "Trending Now",
+    "top_rated": "Top Rated",
+    "most_visited": "Most Visited",
+    "hidden_gems": "Hidden Gems",
+    "explore_egypt": "Explore Egypt",
+    "trending_badge": "Trending",
+    "hidden_gem_badge": "Underrated",
+    "views_count": "{count} views",
+    "ratings_count": "{count} ratings",
+    "dynamic_empty": "Fresh travel activity will appear here soon.",
+    "see_all": "See all",
+    "for_you": "For you",
+    "explore_badge": "Explore",
+
+    "footer": "Discover Egypt in a simple and elegant way"
+  },
+
+  "governorates": {
+    "explore": "Explore governorate",
+    "location": "Location",
+    "population": "Population",
+    "famous_for": "Famous for",
+    "best_visit": "Best visit",
+    "top_attractions": "Top Attractions",
+    "empty_attractions": "Attractions from this governorate will appear here once Firestore has matching places.",
+    "giza": {
+      "famous_for": "Pyramids & Sphinx",
+      "best_visit": "Oct - Apr"
+    },
+    "cairo": {
+      "famous_for": "Museums & Islamic Cairo",
+      "best_visit": "Nov - Mar"
+    },
+    "alexandria": {
+      "famous_for": "Mediterranean heritage",
+      "best_visit": "Apr - Jun"
+    },
+    "luxor": {
+      "famous_for": "Temples & tombs",
+      "best_visit": "Oct - Mar"
+    },
+    "aswan": {
+      "famous_for": "Nile islands & Nubia",
+      "best_visit": "Nov - Feb"
+    },
+    "hurghada": {
+      "famous_for": "Diving & Red Sea",
+      "best_visit": "Sep - May"
+    }
+  },
+
+  "weather": {
+    "title": "Weather",
+    "current": "Current weather in {city}",
+    "details": "Weather details",
+    "loading": "Loading weather...",
+    "error_title": "Weather unavailable",
+    "error_message": "Could not load weather right now. Please try again.",
+    "retry": "Retry",
+    "updated_at": "Updated {time}",
+    "feels_like": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "wind_value": "{value} m/s",
+    "range": "Min / Max"
+  },
+
+  "explore": {
+    "header_title": "Find your next destination",
+    "header_subtitle": "Browse places easily",
+
+    "search_hint": "Search places...",
+    "places": "Places",
+
+    "found_count": "{count} found",
+    "curated_count": "{count} places",
+
+    "empty_title": "No results found",
+    "empty_subtitle": "Try another search"
+  },
+
+  "details": {
+    "about": "About",
+    "listen_ar": "Arabic Audio",
+    "listen_en": "English Audio",
+    "stop_audio": "Stop",
+    "open_in_maps": "Open in Google Maps",
+    "gallery": "Gallery",
+    "add_to_favorites": "Add to Favorites",
+    "remove_from_favorites": "Remove from Favorites",
+    "rating_title": "Place rating",
+    "tap_to_rate": "Tap to rate",
+    "your_rating": "Your rating",
+    "rating_count": "{count} ratings",
+    "rating_saved": "Rating saved",
+    "rating_error": "Could not save rating. Please try again.",
+    "rating_lock_title": "Sign in to rate this place",
+    "rating_lock_subtitle": "Your rating is saved to your account so every place can count your vote only once."
+  },
+
+  "favorites": {
+    "empty": "No favorites yet",
+    "error_title": "Could not load favorites",
+    "retry": "Retry"
+  },
+
+  "auth": {
+    "badge": "Curated access for modern travelers",
+    "brand_subtitle": "Personal Egypt travel companion",
+    "onboarding_1_title": "Explore Egypt with a guide that feels personal",
+    "onboarding_1_subtitle": "Move between governorates, landmarks, beaches, and museums with a polished experience built for discovery.",
+    "onboarding_1_stat": "curated cities",
+    "onboarding_2_title": "Save the places that make your trip yours",
+    "onboarding_2_subtitle": "Keep favorites close, return to them quickly, and shape a travel plan around what you actually love.",
+    "onboarding_2_stat": "traveler rating",
+    "onboarding_3_title": "Plan smarter before you step outside",
+    "onboarding_3_subtitle": "Find highlights, ratings, details, maps, and audio guidance before your next stop.",
+    "onboarding_3_stat": "ready guide",
+    "welcome_title": "Save your journey and move through Egypt with a personal touch",
+    "welcome_subtitle": "Create an account to keep your favorite places, continue your trips across devices, and shape a more personal Nile Explorer experience.",
+    "fact_sync": "Sync your picks",
+    "fact_favorites": "Build your favorites",
+    "fact_fast": "Jump back in fast",
+    "start_title": "Start your experience",
+    "start_subtitle": "Sign in, create an account, or keep browsing as a guest until you are ready.",
+    "sign_in": "Sign in",
+    "sign_in_title": "Welcome back",
+    "sign_in_subtitle": "Enter your details to continue your curated Egypt journey.",
+    "sign_in_visual_title": "Your saved Egypt journey is waiting",
+    "sign_in_visual_subtitle": "Return to favorites, ratings, and destinations with a clean account experience.",
+    "signing_in": "Signing in...",
+    "continue_with_google": "Continue with Google",
+    "create_account": "Create account",
+    "register_title": "Create your account",
+    "register_subtitle": "Set up your traveler profile and keep every destination within reach.",
+    "register_visual_title": "Build a travel profile around what you love",
+    "register_visual_subtitle": "Create a calm home for your places, preferences, and future trips across Egypt.",
+    "creating_account": "Creating account...",
+    "continue_as_guest": "Continue as guest",
+    "guest_title": "Not ready yet?",
+    "guest_subtitle": "You can explore the app now and connect Firebase auth later without blocking the UI work.",
+    "guest_badge": "Guest mode",
+    "guest_mode": "You are exploring as a guest",
+    "guest_mode_subtitle": "Guest mode keeps the experience light, but your account features stay limited until you sign in.",
+    "upgrade_account": "Upgrade to full account",
+    "leave_guest_mode": "Leave guest mode",
+    "member_badge": "Signed-in explorer",
+    "personal_greeting": "Welcome back, {name}",
+    "personal_subtitle": "Your account is ready for favorites, personalized journeys, and cross-device continuity.",
+    "account": "Account",
+    "account_prompt": "Make your account part of the trip",
+    "account_prompt_subtitle": "Sign in to unlock a fuller experience and prepare the app for Firebase integration.",
+    "account_ready": "Account connected to the app UI",
+    "account_ready_subtitle": "The UI flow is ready. You only need to replace the mock methods with your Firebase calls.",
+    "not_signed_in": "Not signed in",
+    "sign_out": "Sign out",
+    "full_name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "invalid_name": "Enter a valid name",
+    "invalid_email": "Enter a valid email",
+    "invalid_password": "Password must be at least 6 characters",
+    "no_account": "Don’t have an account?",
+    "have_account": "Already have an account?",
+    "favorites_lock_title": "Sign in to keep your favorites",
+    "favorites_lock_subtitle": "Favorites are connected to your account flow so your saved places can be ready for Firebase later.",
+    "sign_in_for_favorites": "Sign in to save favorites"
+  },
+
+  "settings": {
+    "personalize_title": "Personalize App",
+    "personalize_subtitle": "Choose your language",
+
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1047711605350",
+    "project_id": "nile-explorer-final-app",
+    "storage_bucket": "nile-explorer-final-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047711605350:android:6213ad7bd30ff5166443a7",
+        "android_client_info": {
+          "package_name": "com.example.final_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047711605350-cmiavptu83njogvd84d2pevrg00g1vcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_app",
+            "certificate_hash": "8daf0ce06172fb64c4c9ca592f62bdd5fb2b5838"
+          }
+        },
+        {
+          "client_id": "1047711605350-8cosc6o29e6epnb47ln7r784356v1q16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87SKv69HQ9NsMrJDcPaoxO5L7riSRKKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047711605350-8cosc6o29e6epnb47ln7r784356v1q16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047711605350-s5jeu6d81fpe0updr4rkq8p8b3vdqb4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

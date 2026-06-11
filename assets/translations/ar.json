@@ -1,0 +1,225 @@
+﻿{
+  "app_title": "نايل إكسبلورر",
+
+  "common": {
+    "all": "الكل"
+  },
+
+  "navigation": {
+    "home": "الرئيسية",
+    "explore": "استكشاف",
+    "favorites": "المفضلة",
+    "settings": "الإعدادات"
+  },
+
+  "categories": {
+    "temples": "معابد",
+    "museums": "متاحف",
+    "beaches": "شواطئ",
+    "bazaars": "بازارات"
+  },
+
+  "cities": {
+    "giza": "الجيزة",
+    "cairo": "القاهرة",
+    "alexandria": "الإسكندرية",
+    "luxor": "الأقصر",
+    "aswan": "أسوان",
+    "hurghada": "الغردقة",
+    "fayoum": "الفيوم",
+
+    "giza_subtitle": "الأهرامات وعبق التاريخ",
+    "cairo_subtitle": "تاريخ وحياة ليلية",
+    "alexandria_subtitle": "تاريخ على البحر المتوسط",
+    "luxor_subtitle": "عجائب أثرية",
+    "aswan_subtitle": "هدوء النيل",
+    "hurghada_subtitle": "سواحل البحر الأحمر",
+    "fayoum_subtitle": "واحات وبحيرات وفخار"
+  },
+
+  "home": {
+    "hero_badge": "دليل مصر الحديث",
+    "hero_title": "اكتشف روح مصر من المعابد التاريخية إلى شواطئ البحر الأحمر",
+    "hero_subtitle": "أماكن مختارة وتجارب فريدة في تطبيق واحد",
+
+    "categories": "التصنيفات",
+    "cities": "المدن",
+    "recommended": "مقترحات",
+    "trending_now": "الأكثر رواجًا",
+    "top_rated": "الأعلى تقييمًا",
+    "most_visited": "الأكثر زيارة",
+    "hidden_gems": "كنوز مخفية",
+    "explore_egypt": "استكشف مصر",
+    "trending_badge": "رائج",
+    "hidden_gem_badge": "غير مكتشف",
+    "views_count": "{count} زيارة",
+    "ratings_count": "{count} تقييم",
+    "dynamic_empty": "سيظهر نشاط الرحلات الجديد هنا قريبًا.",
+    "see_all": "عرض الكل",
+    "for_you": "مناسب لك",
+    "explore_badge": "استكشف",
+
+    "footer": "اكتشف أفضل الأماكن في مصر بسهولة وأناقة"
+  },
+
+  "governorates": {
+    "explore": "استكشف المحافظة",
+    "location": "الموقع",
+    "population": "السكان",
+    "famous_for": "تشتهر بـ",
+    "best_visit": "أفضل وقت",
+    "top_attractions": "أبرز المعالم",
+    "empty_attractions": "ستظهر معالم هذه المحافظة هنا عند إضافة أماكن مطابقة في Firestore.",
+    "giza": {
+      "famous_for": "الأهرامات وأبو الهول",
+      "best_visit": "أكتوبر - أبريل"
+    },
+    "cairo": {
+      "famous_for": "المتاحف والقاهرة الإسلامية",
+      "best_visit": "نوفمبر - مارس"
+    },
+    "alexandria": {
+      "famous_for": "تراث البحر المتوسط",
+      "best_visit": "أبريل - يونيو"
+    },
+    "luxor": {
+      "famous_for": "المعابد والمقابر",
+      "best_visit": "أكتوبر - مارس"
+    },
+    "aswan": {
+      "famous_for": "جزر النيل والنوبة",
+      "best_visit": "نوفمبر - فبراير"
+    },
+    "hurghada": {
+      "famous_for": "الغوص والبحر الأحمر",
+      "best_visit": "سبتمبر - مايو"
+    }
+  },
+
+  "weather": {
+    "title": "الطقس",
+    "current": "الطقس الآن في {city}",
+    "details": "تفاصيل الطقس",
+    "loading": "جارٍ تحميل الطقس...",
+    "error_title": "الطقس غير متاح",
+    "error_message": "تعذر تحميل الطقس الآن. حاول مرة أخرى.",
+    "retry": "إعادة المحاولة",
+    "updated_at": "آخر تحديث {time}",
+    "feels_like": "الإحساس",
+    "humidity": "الرطوبة",
+    "wind": "الرياح",
+    "wind_value": "{value} م/ث",
+    "range": "الصغرى / الكبرى"
+  },
+
+  "explore": {
+    "header_title": "ابحث عن رحلتك القادمة",
+    "header_subtitle": "تصفح الأماكن والمعالم بسهولة",
+
+    "search_hint": "ابحث عن مكان أو مدينة...",
+    "places": "الأماكن",
+
+    "found_count": "{count} نتيجة",
+    "curated_count": "{count} مكان مميز",
+
+    "empty_title": "لا توجد نتائج",
+    "empty_subtitle": "جرب البحث بطريقة مختلفة"
+  },
+
+  "details": {
+    "about": "عن المكان",
+    "listen_ar": "شرح صوتي عربي",
+    "listen_en": "شرح صوتي إنجليزي",
+    "stop_audio": "إيقاف",
+    "open_in_maps": "افتح في جوجل ماب",
+    "gallery": "معرض الصور",
+    "add_to_favorites": "إضافة للمفضلة",
+    "remove_from_favorites": "إزالة من المفضلة",
+    "rating_title": "تقييم المكان",
+    "tap_to_rate": "قيّم المكان",
+    "your_rating": "تقييمك",
+    "rating_count": "{count} تقييم",
+    "rating_saved": "تم حفظ التقييم",
+    "rating_error": "تعذر حفظ التقييم. حاول مرة أخرى.",
+    "rating_lock_title": "سجّل دخولك لتقييم المكان",
+    "rating_lock_subtitle": "يتم حفظ تقييمك على حسابك حتى يتم احتساب صوتك مرة واحدة فقط لكل مكان."
+  },
+
+  "favorites": {
+    "empty": "لا توجد أماكن مفضلة بعد",
+    "error_title": "تعذر تحميل المفضلة",
+    "retry": "إعادة المحاولة"
+  },
+
+  "auth": {
+    "badge": "وصول أنيق لرحلة أكثر شخصية",
+    "brand_subtitle": "رفيقك الشخصي لاكتشاف مصر",
+    "onboarding_1_title": "استكشف مصر بدليل يحسسك أن الرحلة مصممة لك",
+    "onboarding_1_subtitle": "تنقل بين المحافظات والمعالم والشواطئ والمتاحف بتجربة مصقولة ومصممة للاكتشاف.",
+    "onboarding_1_stat": "مدينة مختارة",
+    "onboarding_2_title": "احفظ الأماكن التي تجعل رحلتك مختلفة",
+    "onboarding_2_subtitle": "احتفظ بمفضلاتك، وارجع لها بسرعة، وابنِ خطة رحلتك حول ما تحبه فعلًا.",
+    "onboarding_2_stat": "تقييم المسافرين",
+    "onboarding_3_title": "خطط بذكاء قبل أن تبدأ جولتك",
+    "onboarding_3_subtitle": "اعرف أبرز المعالم والتقييمات والتفاصيل والخرائط والشرح الصوتي قبل وجهتك القادمة.",
+    "onboarding_3_stat": "دليل جاهز",
+    "welcome_title": "احفظ رحلتك وتنقل في مصر بتجربة شخصية أكثر",
+    "welcome_subtitle": "أنشئ حسابًا للاحتفاظ بالأماكن المفضلة، ومتابعة رحلاتك عبر الأجهزة، وتجهيز تجربة نايل إكسبلورر بشكل أكثر احترافية.",
+    "fact_sync": "مزامنة اختياراتك",
+    "fact_favorites": "ابنِ قائمتك المفضلة",
+    "fact_fast": "ارجع بسرعة لتجربتك",
+    "start_title": "ابدأ رحلتك",
+    "start_subtitle": "سجل دخولك، أنشئ حسابًا، أو استكشف كضيف حتى تكون جاهزًا.",
+    "sign_in": "تسجيل الدخول",
+    "sign_in_title": "مرحبًا بعودتك",
+    "sign_in_subtitle": "أدخل بياناتك لمتابعة رحلتك داخل مصر بتجربة أنيقة ومنظمة.",
+    "sign_in_visual_title": "رحلتك المحفوظة داخل مصر في انتظارك",
+    "sign_in_visual_subtitle": "ارجع إلى المفضلة والتقييمات والوجهات من خلال تجربة حساب واضحة واحترافية.",
+    "signing_in": "جارٍ تسجيل الدخول...",
+    "continue_with_google": "المتابعة باستخدام جوجل",
+    "create_account": "إنشاء حساب",
+    "register_title": "أنشئ حسابك",
+    "register_subtitle": "جهّز ملفك الشخصي واحتفظ بكل وجهاتك المميزة في مكان واحد.",
+    "register_visual_title": "ابنِ ملف رحلة حول الأماكن التي تحبها",
+    "register_visual_subtitle": "أنشئ مساحة هادئة لأماكنك وتفضيلاتك ورحلاتك القادمة في مصر.",
+    "creating_account": "جارٍ إنشاء الحساب...",
+    "continue_as_guest": "المتابعة كضيف",
+    "guest_title": "لسه مش جاهز؟",
+    "guest_subtitle": "تقدر تدخل التطبيق الآن كضيف وتربط Firebase بعدين بدون ما توقف شغل الواجهة.",
+    "guest_badge": "وضع الضيف",
+    "guest_mode": "أنت تستخدم التطبيق كضيف",
+    "guest_mode_subtitle": "وضع الضيف مناسب للتجربة السريعة، لكن مزايا الحساب تظل محدودة حتى تسجل دخولك.",
+    "upgrade_account": "الترقية إلى حساب كامل",
+    "leave_guest_mode": "الخروج من وضع الضيف",
+    "member_badge": "مستخدم مسجل",
+    "personal_greeting": "أهلًا بعودتك يا {name}",
+    "personal_subtitle": "حسابك جاهز للمفضلة، والتجربة الشخصية، والاستمرارية بين الأجهزة.",
+    "account": "الحساب",
+    "account_prompt": "خلّي حسابك جزءًا من الرحلة",
+    "account_prompt_subtitle": "سجّل دخولك لفتح تجربة أوسع وتجهيز التطبيق لربط Firebase بسهولة.",
+    "account_ready": "الحساب مربوط حاليًا بواجهة التطبيق",
+    "account_ready_subtitle": "تدفق الواجهة جاهز. المتبقي فقط هو استبدال الدوال الوهمية باستدعاءات Firebase الخاصة بك.",
+    "not_signed_in": "غير مسجل الدخول",
+    "sign_out": "تسجيل الخروج",
+    "full_name": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "invalid_name": "أدخل اسمًا صحيحًا",
+    "invalid_email": "أدخل بريدًا إلكترونيًا صحيحًا",
+    "invalid_password": "كلمة المرور يجب أن تكون 6 أحرف على الأقل",
+    "no_account": "ليس لديك حساب؟",
+    "have_account": "لديك حساب بالفعل؟",
+    "favorites_lock_title": "سجّل دخولك للاحتفاظ بالمفضلة",
+    "favorites_lock_subtitle": "المفضلة مرتبطة بتدفق الحساب حتى تكون جاهزة للربط مع Firebase لاحقًا.",
+    "sign_in_for_favorites": "سجّل دخولك لحفظ المفضلة"
+  },
+
+  "settings": {
+    "personalize_title": "تخصيص التطبيق",
+    "personalize_subtitle": "اختر اللغة المناسبة لك",
+
+    "language": "اللغة",
+    "english": "English",
+    "arabic": "العربية"
+  }
+}
