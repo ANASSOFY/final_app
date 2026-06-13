@@ -1,8 +1,5 @@
-You are a senior Flutter architect.
 
 I have a production-ready Flutter application called "Nile Explorer".
-
-Your task is to improve and extend the application WITHOUT breaking existing functionality.
 
 Rules:
 - Preserve all current features.
