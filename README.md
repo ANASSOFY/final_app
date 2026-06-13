@@ -1,14 +1,4 @@
 
-I have a production-ready Flutter application called "Nile Explorer".
-
-Rules:
-- Preserve all current features.
-- Follow MVVM architecture strictly.
-- Do not modify existing business logic unless necessary.
-- Maintain compatibility with Firebase Authentication and Cloud Firestore.
-- Avoid introducing performance regressions.
-- Keep the UI responsive and consistent with Material 3 design.
-
 Current features:
 
 • Firebase Authentication
